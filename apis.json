@@ -1,0 +1,44 @@
+{
+    "name": "Cloud9Infosystems",
+    "description": "",
+    "image": "",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloud9infosystems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cloud9Infosystems",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/www.cloud9infosystems.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloud9infosystems-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloud9infosystems-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Cloud9I"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.cloud9infosystems.com"
+        }
+    ]
+}
